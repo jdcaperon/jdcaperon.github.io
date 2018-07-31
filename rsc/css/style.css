@@ -1,0 +1,59 @@
+body {
+    font-family: Ubuntu;
+}
+
+.mebar {
+    max-width: 600px;
+    margin: 75px auto;
+}
+
+.logo {
+    height: 100px;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.profileimg {
+    border-radius: 30px;
+}
+
+.name {
+    color: white;
+    font-size: 3em;
+    font-weight: 600;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.git {
+    height: 34px;
+    background-color: white;
+    border-radius: 5px 0 0 5px;
+}
+
+.linkedin {
+    height: 34px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 0 5px 5px 0;
+}
+
+.social {
+    margin-top: 10px;
+}
+
+.cr {
+    color: #191919;
+}
+
+.fixed-row-bottom { 
+    position: fixed;
+    bottom: 0;
+}
