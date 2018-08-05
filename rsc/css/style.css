@@ -3,7 +3,12 @@ body {
 }
 
 .body {
-    background-color: white;
+    background-color: gray;
+    background-image: url(../img/ThinkPadX230-White-Wireframe.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 50vmax;
+    background-position: 99% 5px;
 }
 
 .mebar {
@@ -60,3 +65,4 @@ body {
     position: fixed;
     bottom: 0;
 }
+
