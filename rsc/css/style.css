@@ -3,12 +3,12 @@ body {
 }
 
 .body {
-    background-color: gray;
-    background-image: url(../img/ThinkPadX230-White-Wireframe.png);
+    background-color: #333333;
+    background-image: url(../img/ThinkPadX230-White-Wireframe-Left.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 50vmax;
-    background-position: 99% 5px;
+    background-size: 500px;
+    background-position: 1% 5px;
 }
 
 .mebar {
@@ -30,6 +30,9 @@ body {
 
 .name {
     color: black;
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    padding: 3px;
     font-size: 3em;
     font-weight: 600;
     text-align: center;
@@ -37,6 +40,9 @@ body {
 
 .title {
     color: black;
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    padding: 3px;
     font-size: 1.2em;
     text-align: center;
 }
