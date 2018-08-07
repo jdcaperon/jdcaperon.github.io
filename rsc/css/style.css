@@ -4,11 +4,10 @@ body {
 
 .body {
     background-color: #333333;
-    background-image: url(../img/ThinkPadX230-White-Wireframe-Left.png);
+    background-image: url(../img/ThinkPadX230-White-Wireframe.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 500px;
-    background-position: 1% 5px;
+    background-position: 99% 5px;
 }
 
 .mebar {
