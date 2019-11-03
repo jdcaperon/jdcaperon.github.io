@@ -1,2 +1,0 @@
-# webme
-My personal website.
