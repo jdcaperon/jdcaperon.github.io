@@ -4,3 +4,11 @@
     border-width: 12px;
     border-color: #fff;
 }
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #cfcfcf;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #cfcfcf;
+}
